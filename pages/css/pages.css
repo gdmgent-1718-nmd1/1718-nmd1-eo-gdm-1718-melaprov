@@ -231,6 +231,7 @@ a{
 img
 {
   border-radius: 5px;
+  
 }
 
 
@@ -294,4 +295,12 @@ ul{
 .active {
     color:orange;
 
+}
+
+
+
+
+
+.p{
+    float: left;
 }
