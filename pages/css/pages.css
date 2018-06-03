@@ -11,8 +11,254 @@ body {
     padding: 25px;
 }
 
+#header{
+    background-color: black;
+}
+
+
+
+
 img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
 
-/* Voeg jouw css hieraan toe */
+
+.textcenter {
+    text-align: center;
+    background-color: black;
+}
+
+.textcenters{
+    padding:20px 10px;
+    background-color: #000000;
+}
+
+h1{
+    text-align: center;
+    font-size: 25pt; 
+    color:white;
+
+}
+
+h3 {
+    color:#f7527a;
+    font-size:25pt;
+    text-align: center;
+
+}
+
+
+p{
+    text-align: left; 
+    font-size: 14pt; 
+   
+}
+
+h4{
+    font-size: 20pt; 
+  
+}
+
+li{
+    font-size: 12pt;
+   font-family: Helvetica, sans-serif;
+  
+
+}
+
+h5{
+    font-size: 12pt;
+    font-family: Helvetica, sans-serif;
+   color: #a4d25b;
+}
+
+.zwartkader{
+    padding: 20px; 
+    
+}
+
+
+h6{
+    font-size: 16pt;
+    font-family:Helvetica, sans-serif, bold;
+    color: rosybrown;
+}
+
+h7{
+    font-family: Helvetica, sans-serif, bold; 
+    font-size: 14pt;
+    color: #f7527a; 
+
+}
+
+h8{
+    font-family:Helvetica, sans-serif,'Arial Narrow Bold', sans-serif;
+    font-size: 16pt;
+    color: black; 
+}
+
+.foto{
+       width:120px;
+        height:120px;
+        border-radius:120px;
+        background-color: #f7527a;
+        float: left;
+       margin: 50px;
+
+        
+
+}
+.cirkel{
+        width:120px;
+        height:120px;
+        border-radius:120px;
+        background-color: #a4d25b;
+        float: left;
+        margin: 50px;
+        
+}
+
+.driecirkel{
+    width:120px;
+    height:120px;
+    border-radius:120px;
+    background-color: #f9b643;
+    float: left;
+    margin: 50px;
+   
+}
+ 
+.cirkelkleur{
+    width:120px;
+    height:120px;
+    border-radius:120px; 
+    float: left;
+    margin-left: 30px;
+    background-color: #4dfeec;
+    float:left;
+    margin: 50px;
+    
+}
+
+.cirkelzwart{
+    width:120px;
+    height:120px;
+    border-radius:120px; 
+    float: left;
+    margin-left: 30px;
+    background-color: black;
+    float:left;
+    margin:50px;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+.button{
+    width: 200px;
+    height:60px;
+    display: block; 
+    background-color: #f7527a;
+    margin: 100px auto; 
+    color:white;
+    text-align: center;
+    line-height:60px;
+     box-shadow:0px 0px 10px 3px #a4247a;
+     border-radius:15px;
+     cursor:hand;
+    cursor:pointer;
+  float: left;
+  margin:20px;
+    
+}
+
+.button1{
+    width: 200px;
+    height:60px;
+    display: block; 
+    background-color: #f7527a;
+    margin: 100px auto; 
+    color:white;
+    text-align: center;
+    line-height:60px;
+     box-shadow:0px 0px 10px 3px #a4247a;
+     border-radius:15px;
+     cursor:hand;
+    cursor:pointer;
+    float:left;
+    margin:20px;
+   
+  
+}
+
+.button2{
+    width: 200px;
+    height:60px;
+    display: block; 
+    background-color: #f7527a;
+    margin: 100px auto; 
+    color:white;
+    text-align: center;
+    line-height:60px;
+     box-shadow:0px 0px 10px 3px #a4247a;
+     border-radius:15px;
+     cursor:hand;
+    cursor:pointer;
+    float:left;
+    margin:20px;
+}
+
+.button3{
+    width: 200px;
+    height:60px;
+    display: block; 
+    background-color: #f7527a;
+    margin: 100px auto; 
+    color:white;
+    text-align: center;
+    line-height:60px;
+     box-shadow:0px 0px 10px 3px #a4247a;
+     border-radius:15px;
+     cursor:hand;
+    cursor:pointer;
+    float:left;
+    margin:20px;
+    
+}
+
+img
+{
+  border-radius: 5px;
+}
+
+
+h8{
+    font-size: 22pt; 
+font-style: bold;
+color:  #f7527a;
+padding:380px;
+
+}
+
+h9{
+    color: #a4d25b;
+    
+}
+h10{
+    font-size: 16pt; 
+    font-style: bold;
+    color:  #f7527a;  
+   
+}
+
+.photo{
+float:center;
+text-align: center;
+margin: 40px;
+}
+
+h11{
+font-size: 10pt; 
+}
